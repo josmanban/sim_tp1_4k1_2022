@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sim_tp1_4k2_2021/static/css/main.b32c0059.chunk.css",
+    "main.js": "/sim_tp1_4k2_2021/static/js/main.93ab9e71.chunk.js",
+    "main.js.map": "/sim_tp1_4k2_2021/static/js/main.93ab9e71.chunk.js.map",
+    "runtime-main.js": "/sim_tp1_4k2_2021/static/js/runtime-main.e633076b.js",
+    "runtime-main.js.map": "/sim_tp1_4k2_2021/static/js/runtime-main.e633076b.js.map",
+    "static/js/2.1da5cf72.chunk.js": "/sim_tp1_4k2_2021/static/js/2.1da5cf72.chunk.js",
+    "static/js/2.1da5cf72.chunk.js.map": "/sim_tp1_4k2_2021/static/js/2.1da5cf72.chunk.js.map",
+    "static/js/3.79579977.chunk.js": "/sim_tp1_4k2_2021/static/js/3.79579977.chunk.js",
+    "static/js/3.79579977.chunk.js.map": "/sim_tp1_4k2_2021/static/js/3.79579977.chunk.js.map",
+    "index.html": "/sim_tp1_4k2_2021/index.html",
+    "static/css/main.b32c0059.chunk.css.map": "/sim_tp1_4k2_2021/static/css/main.b32c0059.chunk.css.map",
+    "static/js/2.1da5cf72.chunk.js.LICENSE.txt": "/sim_tp1_4k2_2021/static/js/2.1da5cf72.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sim_tp1_4k2_2021/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e633076b.js",
+    "static/js/2.1da5cf72.chunk.js",
+    "static/css/main.b32c0059.chunk.css",
+    "static/js/main.93ab9e71.chunk.js"
+  ]
+}
